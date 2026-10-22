@@ -13,7 +13,7 @@ int main()
 {
     setlocale(LC_ALL, "RUS");
     
-    double Xstart = -5.0; 
+    double Xstart = -3.0; 
     double Xend = 8.0;    
     double step = 1.0;    
 
